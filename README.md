@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![MinJoon's github stats](https://github-readme-stats.vercel.app/api?username=minjoong507&show_icons=true&theme=merko)
+
+
 <!--
 **minjoong507/minjoong507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
