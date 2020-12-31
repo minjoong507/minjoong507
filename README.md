@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  :rocket: I'm interest in Machine Learning, Deep Learning and Natural Language Processing. Recently picked up interests in Computer Vision as well. 
+  :rocket: I'm interest in `Machine Learning`, Deep Learning and Natural Language Processing. Recently picked up interests in Computer Vision as well. 
 </p>
 
 **✨ Languages and Tools:** 
