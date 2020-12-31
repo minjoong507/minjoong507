@@ -4,6 +4,7 @@
 
 <p align='center'>
   :rocket: I'm interest in Machine Learning, Deep Learning and Natural Language Processing. Recently picked up interests in Computer Vision as well. 
+</p>
 
 **✨ Languages and Tools:** 
 
@@ -24,7 +25,7 @@
   📫 How to reach me: <a href='mailto:albert507@snu.ac.kr'>albert507@snu.ac.kr</a> or <a href='mailto:minjoon507@gmail.com'>minjoon507@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a>
+  <a href="#"><img src="https://badges.pufler.dev/visits/minjoong507/minjoong507"></a>
 </p>
 
 <details>
