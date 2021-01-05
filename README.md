@@ -21,18 +21,5 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:mjjung@bi.snu.ac.kr'>mjjung@bi.snu.ac.kr</a>
-</p>
-<p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/minjoong507/minjoong507"></a>
 </p>
-
-<details>
-  <summary>📃 My Resume</summary>
-
-
-## Education
-
-## Experience
-
-</details>
