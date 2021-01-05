@@ -21,7 +21,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:albert507@snu.ac.kr'>albert507@snu.ac.kr</a> or <a href='mailto:minjoon507@gmail.com'>minjoon507@gmail.com</a>
+  📫 How to reach me: <a href='mailto:mjjung@bi.snu.ac.kr'>mjjung@bi.snu.ac.kr</a>
 </p>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/minjoong507/minjoong507"></a>
